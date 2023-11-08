@@ -8,3 +8,5 @@ if (button && input) {
     concatenation(input.value, 'hello!');
   });
 }
+
+const dir = 250;
