@@ -9,4 +9,3 @@ if (button && input) {
   });
 }
 
-const dir = 250;
